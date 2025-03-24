@@ -9,7 +9,8 @@
 - 🌱 Currently learning Kotlin, Java, HTML, CSS
 - ⚡ Playing Minecraft & Watching YouTube in spare time
 - 💻 Currently learning Kotlin to develop a Minecraft hack client
-- 🔗 My Personal Website: [Link](https://eclipses.pw)
+- 🛠️ Making Minecraft simple AntiCheat
+- 🔗 My Personal Website: [eclipses](https://eclipses.pw)
 
 <br><br>
 
