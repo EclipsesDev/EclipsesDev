@@ -51,12 +51,7 @@
 
 ![EclipsesDev's Stats](https://github-readme-stats.vercel.app/api?username=EclipsesDev&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 
-<a href="https://github.com/EclipsesDev/">
-  <img src="https://github-readme-stats.vercel.app/api?username=EclipsesDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> 
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EclipsesDev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="EclipsesDev"/>
-</a>
+![EclipsesDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EclipsesDev&theme=nightowl&hide_border=false)
 
 </div>
 
@@ -72,7 +67,7 @@
 ## 📫 Let's Connect..!
 
 <div align="left">
-  <b>Discord:</b> Eclipses#3872
+  <b>Discord:</b> x0q.
   <br>
 </div>
 
