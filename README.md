@@ -6,11 +6,11 @@
 
 <br>
 
-- 🌱 Currently learning Kotlin, Java, HTML, CSS
+- 🌱 Currently learning Kotlin, Java, HTML, CSS, JavaScript
 - ⚡ Playing Minecraft & Watching YouTube in spare time
 - 💻 Currently learning Kotlin to develop a Minecraft hack client
 - 🛠️ Making Minecraft simple AntiCheat
-- 🔗 My Personal Website: [eclipses](https://eclipses.pw)
+- 🔗 My Personal [Website](https://eclipses.pw)
 
 <br><br>
 
