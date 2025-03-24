@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 Currently learning Kotlin, Java, HTML, CSS, JavaScript
+- 🌱 Currently learning Kotlin, Java & JavaScript
 - ⚡ Playing Minecraft & Watching YouTube in spare time
 - 💻 Currently learning Kotlin to develop a Minecraft hack client
 - 🛠️ Making Minecraft simple AntiCheat
@@ -25,7 +25,7 @@
 </p>
 
 <div align="center">
-  <p>HTML, CSS, C#, Java, Kotlin</p>
+  <p>HTML, CSS, C#, Java, Kotlin, JavaScript</p>
 </div>
 
 <br>
