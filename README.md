@@ -62,14 +62,6 @@
 
 <br>
 <br>
-
-## 📫 Let's Connect..!
-
-<div align="left">
-  <b>Discord:</b> x0q.
-  <br>
-</div>
-
 <br>
 
 ![Coding](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
