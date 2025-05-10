@@ -10,7 +10,7 @@
 - ⚡ Playing Minecraft & Watching YouTube in spare time
 - 💻 Currently learning Kotlin to develop a Minecraft hack client
 - 🛠️ Making Minecraft simple AntiCheat
-- 🔗 My Personal [Website](https://eclipsesdev.ac.id)
+- 🔗 My Personal [Website](https://eclipsesdev.my.id)
 
 <br><br>
 
