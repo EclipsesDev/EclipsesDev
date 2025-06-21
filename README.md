@@ -7,8 +7,7 @@
 <br>
 
 - 🌱 Currently learning Kotlin, Java & JavaScript
-- ⚡ Playing Minecraft & Watching YouTube in spare time
-- 💻 Currently learning Kotlin to develop a Minecraft hack client
+- ⚡ Playing Roblox, Minecraft & Watching YouTube in spare time
 - 🛠️ Making Minecraft simple AntiCheat
 - 🔗 My Personal [Website](https://eclipsesdev.my.id)
 
@@ -25,7 +24,7 @@
 </p>
 
 <div align="center">
-  <p>HTML, CSS, C#, Java, Kotlin, JavaScript</p>
+  <p>HTML, CSS, C#, Java, Kotlin, JavaScript, Lua</p>
 </div>
 
 <br>
