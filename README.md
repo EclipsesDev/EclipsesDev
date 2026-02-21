@@ -31,7 +31,7 @@
 <h3 align="center">Software and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,robloxstudio"/>
 </p>
 
 <br>
