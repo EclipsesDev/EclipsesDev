@@ -52,6 +52,8 @@
 <!-- ![EclipsesDev's Stats](https://github-readme-stats.vercel.app/api?username=EclipsesDev&theme=nightowl&show_icons=true&hide_border=false&count_private=true) -->
 ![Stats](./profile/stats.svg)
 
+![Top Languages](./profile/top-langs.svg)
+
 ![EclipsesDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EclipsesDev&theme=nightowl&hide_border=false)
 
 </div>
