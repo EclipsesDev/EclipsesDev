@@ -6,9 +6,9 @@
 
 <br>
 
-- 🌱 Currently learning Kotlin, Java, JavaScript & Luau
+- 🌱 Currently learning Java, JavaScript & Luau
 - ⚡ Playing Roblox, Minecraft & Watching YouTube in spare time
-- 🛠️ Making Minecraft simple AntiCheat
+- 🛠️ Making Minecraft Modern AntiCheat
 - 🔗 My Personal [Website](https://eclipsesdev.my.id) (OUTDATED)
 
 <br><br>
@@ -19,24 +19,18 @@
 
 ## 🚀 Skills
 
-<p align="center">
-  <b>Languages:</b>
-</p>
+<h2 align="center">Languages</h2>
 
-<div align="center">
-  <p>HTML, CSS, C#, Java, Kotlin, JavaScript, Lua</p>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,lua,cs"/>
+</p>
 
 <br>
 
-<p align="center">
-  <b>Software and Tools:</b>
-</p>
+<h2 align="center">Software and Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
 </p>
 
 <br>
