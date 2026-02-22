@@ -27,6 +27,14 @@
 
 <br>
 
+<h3 align="center">Current Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js"/>
+</p>
+
+<br>
+
 <h3 align="center">Software and Tools</h3>
 
 <p align="center">
