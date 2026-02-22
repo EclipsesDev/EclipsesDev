@@ -19,7 +19,7 @@
 
 ## 🚀 Skills
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Learned Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,lua,cs"/>
