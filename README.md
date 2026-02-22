@@ -9,7 +9,6 @@
 - 🌱 Currently learning Java, JavaScript & Luau
 - ⚡ Playing Roblox, Minecraft & Watching YouTube in spare time
 - 🛠️ Making Minecraft Modern AntiCheat
-- 🔗 My Personal [Website](https://eclipsesdev.my.id)
 
 <br><br>
 
