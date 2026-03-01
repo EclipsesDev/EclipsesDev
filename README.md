@@ -56,7 +56,7 @@
 
 ![Top Languages](./profile/top-langs.svg)
 
-![EclipsesDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EclipsesDev&theme=nightowl&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EclipsesDev&theme=nightowl)](https://git.io/streak-stats)
 
 </div>
 
