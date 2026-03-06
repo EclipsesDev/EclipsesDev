@@ -18,11 +18,9 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate streak card
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          user: ${{ github.repository_owner }}
-          theme: nightowl
-          output: profile/streak.svg
+        run: |
+          curl "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=nightowl" \
+          -o profile/streak.svg
 
       - name: Commit cards
         run: |
