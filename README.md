@@ -6,9 +6,10 @@
 
 <br>
 
-- 🌱 Currently learning Java, JavaScript & Luau
+- 🌱 Currently learning HTML, CSS,  Java, JavaScript
 - ⚡ Playing Roblox, Minecraft & Watching YouTube in spare time
 - 🛠️ Making Minecraft Modern AntiCheat
+- 🌐 Making Multi-Purpose Modern Website
 
 <br><br>
 
