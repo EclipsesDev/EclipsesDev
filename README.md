@@ -20,15 +20,15 @@
 
 ## 🚀 Skills
 
-<h3 align="center">Learned Languages</h3>
+<h3 align="center">Learned Unused Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,lua,cs"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,lua,cs"/>
 </p>
 
 <br>
 
-<h3 align="center">Current Languages</h3>
+<h3 align="center">Current Used Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,react,html,css,js"/>
