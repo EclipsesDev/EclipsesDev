@@ -31,7 +31,7 @@
 <h3 align="center">Current Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js"/>
+  <img src="https://skillicons.dev/icons?i=java,react,html,css,js"/>
 </p>
 
 <br>
