@@ -1,12 +1,13 @@
 <h1 align="center"><b>Hi, I'm Eclipses</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There!..<3;++;I'm+a+Self-taught+programmer;And+Love+to+learn+new+stuff..<3"></a>
-</p>
+<h3 align="center">
+  <!-- <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+There!..<3;++;I'm+a+Self-taught+programmer;And+Love+to+learn+new+stuff..<3"></a> -->
+  A passionate beginner Full-Stack & Minecraft Anticheat developer
+</h3>
 
 <br>
 
-- 🌱 Currently learning HTML, CSS,  Java, JavaScript
+- 🌱 Currently learning React, HTML, CSS, Java, JavaScript
 - ⚡ Playing Roblox, Minecraft & Watching YouTube in spare time
 - 🛠️ Making Minecraft Modern AntiCheat
 - 🌐 Making Multi-Purpose Modern Website
