@@ -32,7 +32,7 @@
 <h3 align="center">Current Used Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,vite,nodejs"/>
 </p>
 
 <br>
