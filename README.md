@@ -24,7 +24,7 @@
 <h3 align="center">Learned Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,lua,cs"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,lua"/>
 </p>
 
 <br>
@@ -32,7 +32,7 @@
 <h3 align="center">Current Used Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,vite,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,vite,nodejs,cs"/>
 </p>
 
 <br>
