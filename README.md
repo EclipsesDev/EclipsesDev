@@ -7,9 +7,10 @@
 
 <br>
 
-- 🌱 Currently learning React, HTML, CSS, Java, JavaScript
+- 🌱 Learning Full-Stack Development
 - ⚡ Playing Roblox, Minecraft & Watching YouTube in spare time
 - 🛠️ Making Minecraft Modern AntiCheat
+- 🛏️ Making Minecraft Modern Bedwars PvP Bot
 - 🌐 Making Multi-Purpose Modern Website
 
 <br><br>
