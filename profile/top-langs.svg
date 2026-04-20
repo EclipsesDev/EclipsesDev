@@ -126,7 +126,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="92.73383924974542%">
+      <svg data-testid="lang-progress" width="92.72900660276665%">
         <rect
             height="8"
             fill="#b07219"
@@ -141,11 +141,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
-      <text x="215" y="34" class="lang-name">2.82%</text>
+      <text x="215" y="34" class="lang-name">2.83%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="2.824182190773524%">
+      <svg data-testid="lang-progress" width="2.8292463229840035%">
         <rect
             height="8"
             fill="#f1e05a"
