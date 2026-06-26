@@ -8,7 +8,8 @@
 <br>
 
 - 🌱 Learning Full-Stack Development
-- ⚡ Playing Roblox, Minecraft & Watching YouTube in spare time
+- 🇩🇪 Ich lerne gerade Deutsch. Ich kann also Deutsch, Englisch und Indonesisch sprechen.
+- ⚡ Playing Roblox, Minecraft, Steam Games & Watching YouTube in spare time
 - 🛠️ Making Minecraft Modern AntiCheat
 - 🛏️ Making Minecraft Modern Bedwars PvP Bot
 - 🌐 Making Multi-Purpose Modern Website
