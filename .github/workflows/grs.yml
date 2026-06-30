@@ -16,7 +16,7 @@ jobs:
     # or read access to private repositories for fine-grained PAT)
     # so Top Languages can include private repos.
     env:
-      STATS_TOKEN: ${{ secrets.README_STATS_TOKEN || github.token }}
+      STATS_TOKEN: ${{ secrets.README_STATS_TOKEN }}
 
     steps:
       - uses: actions/checkout@v6
@@ -25,7 +25,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=EclipsesDev&show_icons=true&theme=nightowl&count_private=true
+          options: username=EclipsesDev&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ env.STATS_TOKEN }}
 
@@ -33,7 +33,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=EclipsesDev&langs_count=6&theme=nightowl&count_private=true
+          options: username=EclipsesDev&langs_count=6&theme=nightowl&count_private=true&include_all_commits=true
           path: profile/top-langs.svg
           token: ${{ env.STATS_TOKEN }}
 
