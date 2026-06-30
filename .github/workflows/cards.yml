@@ -19,7 +19,7 @@ jobs:
 
       - name: Generate streak card
         run: |
-          curl "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=nightowl" \
+          curl "https://streak-stats.demolab.com?user=EclipsesDev&theme=nightowl" \
           -o profile/streak.svg
 
       - name: Commit cards
