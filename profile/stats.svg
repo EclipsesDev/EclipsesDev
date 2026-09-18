@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Eclipses' GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  : 2682, Total PRs: 503, Total Issues: 40, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  : 2604, Total PRs: 503, Total Issues: 40, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 107.87875485339725;
+        stroke-dashoffset: 108.24136444528574;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >2.7k</text>
+      >2.6k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
